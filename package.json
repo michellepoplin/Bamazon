@@ -1,0 +1,25 @@
+{
+  "name": "bamazon",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/michellepoplin/Bamazon.git"
+  },
+  "keywords": [],
+  "author": "Michelle Poplin",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/michellepoplin/Bamazon/issues"
+  },
+  "homepage": "https://github.com/michellepoplin/Bamazon#readme",
+  "dependencies": {
+    "dotenv": "^6.2.0",
+    "inquirer": "^6.2.2",
+    "mysql": "^2.16.0"
+  }
+}
